@@ -1,4 +1,4 @@
-# Retro Math Effects (SDL2)
+# Math Game Effects
 
 A collection of classic retro visual effects implemented in pure C using SDL2.  
 All effects are generated with simple mathematics — no shaders, no textures, just code.
@@ -57,7 +57,7 @@ Each effect produces a `main` binary inside its folder:
 ```bash
 ./fire_math/main
 ./tunnel_effect/main
-./starfield/main
+./star_field/main
 ./plasma/main
 # etc...
 ```
