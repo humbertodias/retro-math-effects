@@ -55,11 +55,15 @@ This will enter each subfolder and build the corresponding demo.
 Each effect produces a `main` binary inside its folder:
 
 ```bash
+./rain/main
 ./fire_math/main
 ./tunnel_effect/main
 ./star_field/main
 ./plasma/main
 # etc...
 ```
+
+![Jan-15-2026 10-52-09](https://github.com/user-attachments/assets/1d2ce83e-df63-4097-8bcc-cdbbd6ca4c42)
+
 
 Press **ESC** to exit any demo.
